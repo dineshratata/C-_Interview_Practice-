@@ -32,7 +32,7 @@ namespace PrimeNumber
                 if (isprime)
                 {
 
-                    Console.WriteLine($"Number {number}is prime");
+                    Console.WriteLine("Enter Number is prime");
                 }
 
                 else
