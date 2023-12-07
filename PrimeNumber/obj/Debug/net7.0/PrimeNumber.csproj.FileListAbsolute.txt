@@ -1,0 +1,15 @@
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\bin\Debug\net7.0\PrimeNumber.exe
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\bin\Debug\net7.0\PrimeNumber.deps.json
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\bin\Debug\net7.0\PrimeNumber.runtimeconfig.json
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\bin\Debug\net7.0\PrimeNumber.dll
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\bin\Debug\net7.0\PrimeNumber.pdb
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.dll
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\refint\PrimeNumber.dll
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.pdb
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\PrimeNumber.genruntimeconfig.cache
+C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\obj\Debug\net7.0\ref\PrimeNumber.dll
