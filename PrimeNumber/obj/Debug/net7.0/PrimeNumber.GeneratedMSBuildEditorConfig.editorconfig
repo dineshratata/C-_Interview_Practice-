@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrimeNumber
-build_property.ProjectDir = C:\Users\dines\OneDrive\Desktop\.NetEshop\InterView\PrimeNumber\
+build_property.ProjectDir = C:\Users\shank\Source\Repos\C-_Interview_Practice-\PrimeNumber\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -9,38 +9,55 @@ namespace PrimeNumber
    
     public class Prime
     {
-        static void Main(string[] args)
+       public static void primenumber ()
         {
-            Console.Write("Enter The Number :");
-            int number = int.Parse(Console.ReadLine());
-            bool isprime = true;
 
+            int firstnumber = 0;
+            int secondnumber = 1;
+            int nextNumber;
+            int numberofElements;
 
-            for (int i = 2; i < number / 2; i++)
-            {
+             Console.Write("Enter number of Elements:");
 
-                if (number % 2 == 0)
-                {
+            numberofElements = int.Parse(Console.ReadLine());
 
-                    isprime = false;
+            if(numberofElements < 2) {
 
-                    break;
-
-                }
+                Console.Write("Enter number Greater than two");
+            
+            
             }
 
-                if (isprime)
-                {
+            else
+            {
 
-                    Console.WriteLine($" {number} is prime");
-                }
+               Console.Write(firstnumber + " " +  secondnumber + " ");
 
-                else
-                {
-                    Console.WriteLine($"{number} is not a prime");
+            }
 
-                }
+
+            for (int i = 2;numberofElements > i;i++ )
+            {
+                nextNumber = firstnumber + secondnumber;
+
+                Console.Write(nextNumber+ " ");
+
                 
+
+                firstnumber = secondnumber;
+
+                secondnumber = nextNumber;
+
+
+
+            }
+
+            
+
+
+
+            Console.ReadKey();  
+
 
             }
 
